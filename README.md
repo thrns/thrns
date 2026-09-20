@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./imgbanner.png"
+    src="./imgbanner.gif"
     alt="thrn@github&#10;• OS: macOS, Linux&#10;• Uptime: 22 years&#10;• Host: University of British Columbia&#10;• Kernel: AI Engineer / Agent Systems Builder&#10;• IDE: VS Code&#10;• Currently.Working: Agentic AI Systems&#10;• Currently.Learning: Reliability & Evals&#10;• Languages.Programming: Python, TypeScript, Java&#10;• Languages.Computer: SQL, HTML, CSS, JSON, YAML&#10;• Languages.Real: English, Tamil, Hindi&#10;• Hobbies.Software: AI Agents, RAG, LLM Evaluation&#10;• Hobbies.Hardware: Robotics, Embedded Systems&#10;• Email.Personal: sv.tharunpranav@gmail.com&#10;• Website.Personal: thrn.im"
     width="100%"
   />
